@@ -1,8 +1,10 @@
-# IntelligentModelCar_2016
+IntelligentModelCar_2016
 ========
+
 ## Image
 ![Image](./images/modelcar2.jpg) 
 
+<br/>
 2016 지능형 모형차 경진대회 - 우승꿍꼬또 팀 보고서 및 Slimulink 파일 
 
 ## 개발 환경
@@ -12,7 +14,6 @@
 ## Key Idea
 1. 기본적인 하드웨어 제어를 제외한 모든 주행 알고리즘을 Simulink로 제작 - Code Generation을 적극 활용
 2. TDD(Test-driven development)를 사용하여 개발 시간 매우 단축
-3. 
 
 ## Content
 1. <a href="https://github.com/proauto/IntelligentModelCar_2016/blob/master/Intelligent_Vehicle7.04/Intelligent_Vehicle.slx">Simulink File</a>
